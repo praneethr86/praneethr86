@@ -11,6 +11,7 @@ I love to learn and explore problems to be solved by tech.
 - 📫 How to reach me: I am active on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Science Fiction, especially Asimov.
+- I track the books I read on GoodReads
 
 ## 🛠 Tech Stack
 
